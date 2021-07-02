@@ -1,0 +1,1 @@
+Site fictício, com as propriedades do CSS Flexbox, sendo totalmente responsivo.
